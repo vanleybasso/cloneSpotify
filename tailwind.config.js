@@ -1,7 +1,7 @@
 module.exports = {
   content: [
-    './src/**/*.{html,js,jsx,ts,tsx}', // Adapte conforme a estrutura do seu projeto
-    './public/index.html', // Se estiver usando um arquivo HTML público
+    './src/**/*.{html,js,jsx,ts,tsx}', 
+    './public/index.html', 
   ],
   theme: {
     extend: {
